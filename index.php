@@ -7,7 +7,7 @@
 <?php
 
 echo "Hello Brothers!";
-echo "We are learning Azure";
+echo <p>"We are learning Azure"</p>;
 echo "Good to see you everyone here";
 ?>
 
