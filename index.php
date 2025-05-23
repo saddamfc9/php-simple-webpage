@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Congratulations!!! Our first Azure Web App is live</h1>
+<h1>Congratulations!!! Our first Azure Web App is live on production</h1>
 
 <?php
 
